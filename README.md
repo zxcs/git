@@ -1,4 +1,5 @@
 git
 ===
 
-codes and thinking
+record codes and thinking
+
